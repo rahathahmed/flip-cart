@@ -19,6 +19,10 @@
 
 }
 
+.banner h2{
+    font-size: 40px;
+}
+
 .slogan {
     margin-top: 10px;
 }
@@ -94,5 +98,24 @@ i.fa-solid.fa-fire {
 .banner-img{
     width: 100px !important;
     margin-top: 20px Im !important;
+}
+
+.banner h2 {
+    font-size: 2rem;
+}
+}
+@media only screen and (max-width: 500px) {
+i.fa-solid.fa-fire {
+        font-size: 3rem;
+        color: red;
+        margin-top: -41px;
+    }
+.banner-img{
+    width: 100px !important;
+    margin-top: 20px Im !important;
+}
+
+.banner h2 {
+    font-size: 2rem;
 }
 }
